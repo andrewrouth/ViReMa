@@ -1,2 +1,0 @@
-# ViReMa
-Latest ViReMa channel
